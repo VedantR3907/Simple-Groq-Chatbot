@@ -1,7 +1,7 @@
 import os
 import json
 
-DATABASE_FILE = "E:\Extra Codes\Data Sciene\AI\Simple-Groq-Chatbot\database.json"
+DATABASE_FILE = os.path.join(os.getcwd(), 'database.json')
 
 def save_to_json(question, answer):
 
