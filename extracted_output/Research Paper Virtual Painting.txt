@@ -1,0 +1,419 @@
+Copyright: © 2023, the author(s), publisher and licensee Technoscience Academy. This is an open-access article distributed 
+under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial 
+use, distribution, and reproduction in any medium, provided the original work is properly cited 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International Journal of Scientific Research in Science and Technology 
+Print ISSN: 2395-6011 | Online ISSN: 2395-602X (www.ijsrst.com) 
+doi : https://doi.org/10.32628/IJSRST523103122 
+ 
+ 
+ 
+ 
+ 
+ 
+576 
+Human Computer Interaction with detection of Hand Gesture to 
+improve Artistic creativity 
+Ms. Megha S. Patel*, Vedant Rajpurohit, Manan Patel, Rinkesh Patel 
+P P Savani University, Surat, Gujarat, India 
+ 
+A R T I C L E I N F O 
+ 
+A B S T R A C T 
+Article History: 
+Accepted:  05 May 2023 
+Published: 30 May 2023 
+ 
+ 
+This research purpose is to improve the interest of artistic creativity for 
+school or college’s students. Find new ways to use virtual reality technology 
+to improve art professional education. Drawing using hand gestures is 
+where we can draw by just capturing the motion of a colored marker with a 
+camera. Discuss how computer vision can play an important role in art 
+education. Using this we have created a simulation for art students or users 
+which helps them to increase their interest to use modern technology 
+which is going to help them to improve their artistic creativity. The Virtual 
+Paint is where students or users can draw by just capturing the motion of a 
+colored marker using a Camera. 
+Keywords: Artistic Creativity, Human Computer Interaction, Motion 
+Acknowledgement, Hand Gesture and Color detection. 
+ 
+Publication Issue 
+Volume 10, Issue 3 
+May-June-2023 
+ 
+Page Number 
+571-575 
+ 
+I. INTRODUCTION 
+ 
+Human Computer Interaction is done in various ways 
+like speech, text and hand gesture. These types of 
+interactions are user friendly. Generally, people have 
+used many controlling devices to interact with 
+machine like remote, joysticks etc but to operate 
+those devices basic knowledge is required related to 
+that device. On the other hand gesture based interface 
+gives more user friendly environment because user 
+has to operate a machine using only his hands in front 
+of the camera. There are multiple applications which 
+works on static hand gesture recognization like Sign 
+language recognization, Robotics, Gaming, Smart 
+home interactive control. Unlike above mention 
+applications our research needs dynamic hand gesture 
+detection using which students can implement their 
+artistic creativity by operating our system using their 
+hands only. 
+ 
+II. EXISTING SYSTEM 
+ 
+1. 
+Real-Time Hand Gesture Recognition using Fine-
+Tuned Convolutional Neural Network 
+Jaya 
+Prakash 
+Sahoo[1], 
+proposed 
+Due 
+to 
+its 
+tremendous flexibility and user-friendliness, hand 
+gesture recognition is one of the most successful 
+means of communication between people and 
+computers. The development of a user-free interface 
+with good recognition performance should be the goal 
+of a real-time hand gesture recognition system. An 
+end-to-end fine-tuning strategy of a pre-trained CNN 
+
+International Journal of Scientific Research in Science and Technology (www.ijsrst.com) | Volume 10 |  Issue3 
+Mrs. K. Deviet al Int J Sci Res Sci & Technol. May-June-2023, 10 (3) : 571-575 
+ 
+ 
+ 
+572 
+model with score-level fusion methodology is 
+proposed to recognise hand gestures in a dataset with 
+a small number of gesture images since convolutional 
+neural networks (CNNs) exhibit high recognition 
+rates in image classification challenges. On two 
+benchmark datasets, leave-one-subject-out cross-
+validation (LOO CV) and conventional CV tests are 
+used to gauge the success of the suggested method. 
+Using the suggested method, a real-time American 
+sign language (ASL) recognition system is developed 
+and tested using the proposed technique. 
+ 
+2. 
+Real-Time Hand Gesture Recognition using a 
+Convolutional Neural Network 
+Julia Arnardottir[2], proposed Hand gestures are an 
+intuitive way of communicating, independent of age 
+and nationality. As robots of all sort become more 
+frequent in our everyday lives, it is important to 
+explore ways to communicate with them. They are 
+using computer vision and neural networks to classify 
+hand gestures and the results visualized on an 
+animated robot that performs different movements 
+based on the predicted hand gestures. 
+ 
+3. 
+Real-time 
+Hand 
+Gesture 
+Recognition 
+and 
+Human-Computer Interaction System 
+Pei Xu[3], proposed This project creates a real-time 
+hand gesture-based human-computer interaction 
+system. Three elements make up the system: hand 
+detection, gesture recognition, and human-computer 
+interaction (HCI) based on recognition. The system 
+realises robust control of mouse and keyboard events 
+with a greater level of gesture recognition accuracy. 
+The method uses a convolutional neural network 
+(CNN) to recognise movements and enables rather 
+complex gestures to be recognised with just one 
+inexpensive monocular camera. In order to realise 
+steady and smooth mouse cursor control, the Kalman 
+filter is employed to estimate the hand position. To 
+prevent false recognition brought on by noises and 
+increase 
+the 
+dependability 
+of 
+interaction, 
+a 
+straightforward technique is created. The technology 
+is extremely expandable and useful in humanrobotic 
+or other human-machine interaction scenarios with 
+more complex command formats. 
+ 
+4. 
+Real-time 
+Hand 
+Gesture 
+Detection 
+and 
+Classification 
+Using 
+Convolutional 
+Neural 
+Networks 
+Okan Kopuklu[4], proposed a hierarchical structure 
+enabling 
+offline-working 
+convolutional 
+neural 
+network architectures to operate online efficiently by 
+using sliding window approach. The proposed 
+architecture consists of two models: (1) A detector 
+which is a lightweight CNN architecture to detect 
+gesture and (2) A classifier which is a deep CNN to 
+classify the detected gestures. 
+ 
+5. 
+AR pen and hand gestures: a new tool for pen 
+drawings 
+Hark-Joon Kim[5], proposed a new interactive AR 
+based pen tool which can overlay virtual images onto 
+a physical drawing in real time. This system allows 
+artists to control the augmented images using gestures 
+of a non-dominant hand while drawing. They have 
+made standalone pen system integrated with a pico-
+projector and a camera, and suggest a set of useful 
+scenarios for the conventional pen and paper drawing. 
+ 
+6. 
+Based on VR Technology the Influence of School 
+Organizational Innovation Atmos Phere Artistic 
+Creativity of University Students: Mediating Role 
+of Flow Experience 
+Wei-Ying Wang[6], proposed the impact of the 
+school's organisational innovation environment on 
+the artistic creativity of college students is examined 
+in this article. The effectiveness of the environment 
+and flow experience on creativity is confirmed by 
+AMOS data analysis. Technology based on virtual 
+reality can be utilised to enhance university art 
+professional education, produce an artistic experience 
+of flow, inspire creativity, and raise the standard of art 
+professional education. 
+ 
+
+International Journal of Scientific Research in Science and Technology (www.ijsrst.com) | Volume 10 |  Issue3 
+Mrs. K. Deviet al Int J Sci Res Sci & Technol. May-June-2023, 10 (3) : 571-575 
+ 
+ 
+ 
+573 
+7. 
+Real time object detection and tracking using 
+Deep Learning and OpenCV 
+G Chandan[7], proposed that deep learning has had a 
+significant impact on how the world is adjusting to 
+artificial intelligence. Region-based Convolutional 
+Neural Networks (RCNN), Faster-RCNN, Single Shot 
+Detector (SSD), and You Only Look Once (YOLO) are 
+a few of the well-known object detection techniques. 
+When speed is prioritised over accuracy, YOLO 
+outperforms the others, with Faster-RCNN and SSD 
+having greater accuracy. In order to implement 
+detection and tracking efficiently, deep learning 
+blends SSD and Mobile Nets. This method detects 
+objects effectively without sacrificing performance. 
+ 
+8. 
+Multiple object detection using OpenCV on an 
+embedded platform 
+S Guennouni[8], propsed that due to the vast range of 
+applications it may be used in, object detection has 
+been garnering a lot of attention. The advancement of 
+object detection technologies has been fueled by the 
+rising computing capacity of hardware and software. 
+In this paper, we describe a developed multiple object 
+detection application built on OpenCV libraries. The 
+complexity-related factors that were taken into 
+account when employing a cascade classifier to detect 
+objects are described. We also go into profiling, 
+application porting to an embedded platform, and 
+comparing the outcomes to a standard platform. The 
+results of the suggested application, which deals with 
+the implementation of real-time systems, indicate 
+where object detection application cases may be more 
+complex and where they may be easier. 
+ 
+III. 
+PROPOSED SYSTEM 
+ 
+The proposed system can be classified into two parts 
+after acquiring the input image from camera or video 
+i.e. 
+ 
+1) 
+Image pre-processing called Extraction Method 
+2) 
+Feature Estimation. 
+ 
+Fig 1. : Flow of Proposed System 
+ 
+Step 1: Detect hand gesture movement 
+We have used Hand Tracking Module to track hands 
+on to screen. As this reseach we have use index 
+fingure for drawing and index plus middle figure for 
+the selection of color as well as shapes for creating any 
+artistic piece. In the model we have total 20 points on 
+the hands which it track. First we detect number of 
+hands on the screen and finds its location on the 
+screen after that we use to detect all the landmarks 
+(points, tips of hand etc.) of the 20 marks on the hand. 
+ 
+Fig 2. Identification of different points of Hand 
+ 
+Step 2: Video Capturing using Webcam 
+We have use index fingure for drawing and index + 
+middle fingure for selection of color or shape so first 
+we need to count how many and which fingures are 
+up or down. We have used OpenCV for capturing 
+video of hand movements and based on the gesture of 
+hand picture will be created in given user interface. 
+ 
+Step 3: Display the Result. 
+ 
+ 
+ 
+ 
+
+International Journal of Scientific Research in Science and Technology (www.ijsrst.com) | Volume 10 |  Issue3 
+Mrs. K. Deviet al Int J Sci Res Sci & Technol. May-June-2023, 10 (3) : 571-575 
+ 
+ 
+ 
+574 
+IV. 
+RESULT AND DISCUSSION 
+ 
+Step 1: Couting figures to finalized the mode of the 
+system. System can be in Selection mode or Drawing 
+mode. 
+i. 
+Index fingure: Drawing Mode 
+ii. 
+Index+Middle fingure: Selection Mode 
+ 
+ 
+(a) 
+ 
+(b) 
+Fig. 3 (a) and (b) Output of testing screen of Couting 
+Fingure 
+ 
+Step 2: After finalising color and shapes user can start 
+drawing. It can be shape based drawing or freehand 
+drawing also. 
+ 
+ 
+(a) 
+ 
+ 
+(b) 
+Fig. 4 Sample Drawing Output (a) Using pre-defined 
+Shapes (b) Using Freehand 
+ 
+V. CONCLUSION 
+ 
+This research work makes the user to have interactive 
+environment where user can create whatever artistic 
+peace he wants to create by chossing colors which are 
+
+International Journal of Scientific Research in Science and Technology (www.ijsrst.com) | Volume 10 |  Issue3 
+Mrs. K. Deviet al Int J Sci Res Sci & Technol. May-June-2023, 10 (3) : 571-575 
+ 
+ 
+ 
+575 
+provided in user interface. The ultimate goal is to 
+create a computer vision machine learning research 
+that promotes human computer interaction (HCI) 
+refers to the relation between the human and the 
+computer or more precisely the machine. 
+ 
+VI. 
+FUTURE SCOPE 
+ 
+More sophisticated ways of Gesture recognition from 
+various other human actions will take place instead of 
+just hand gestures. Voice recognition system will be 
+coupled with gesture recognition system which will 
+then completely remove the requirement of hardware 
+like keyboard and mouse. 
+ 
+VII. REFERENCES 
+ 
+[1]. 
+Sahoo, Jaya Prakash, et al. "Real-time hand 
+gesture 
+recognition 
+using 
+fine-tuned 
+convolutional neural network." Sensors 22.3 
+(2022): 706. 
+[2]. 
+Julia Arnardottir , “Real-Time Hand Gesture 
+Recognition using a Convolutional Neural 
+Network”, 2019. 
+[3]. 
+Xu, Pei. "A real-time hand gesture recognition 
+and 
+human-computer 
+interaction 
+system." 
+arXiv preprint arXiv:1704.07296 (2017). 
+[4]. 
+Köpüklü, Okan, et al. "Real-time hand gesture 
+detection and classification using convolutional 
+neural networks." 2019 14th IEEE international 
+conference on automatic face & gesture 
+recognition (FG 2019). IEEE, 2019. 
+[5]. 
+Kim, Hark-Joon, et al. "AR pen and hand 
+gestures: a new tool for pen drawings." CHI'13 
+Extended Abstracts on Human Factors in 
+Computing Systems. 2013. 943-948. 
+[6]. 
+Wang, Wei-Ying, Li-Chu Tien, and Yu-Qi Du. 
+"Based on VR Technology the Influence of 
+School Organizational Innovation Atmos Phere 
+Artistic Creativity of University Students: 
+Mediating Role of Flow Experience." Int. J. Inf. 
+Educ. Technol. 12.2 (2022): 123-131. 
+[7]. 
+Chandan, G., Ayush Jain, and Harsh Jain. "Real 
+time object detection and tracking using Deep 
+Learning and OpenCV." 2018 International 
+Conference on inventive research in computing 
+applications (ICIRCA). IEEE, 2018. 
+[8]. 
+Guennouni, Souhail, Ali Ahaitouf, and Anass 
+Mansouri. "Multiple object detection using 
+OpenCV on an embedded platform." 2014 Third 
+IEEE International Colloquium in Information 
+Science and Technology (CIST). IEEE, 2014. 
+ 
+ 
+Cite this Article 
+Ms. Megha S. Patel, Vedant Rajpurohit, Manan Patel, 
+Rinkesh Patel, "Human Computer Interaction with 
+detection of Hand Gesture to improve Artistic 
+creativity", International Journal of Scientific Research 
+in Science and Technology (IJSRST), Online ISSN : 
+2395-602X, Print ISSN : 2395-6011, Volume 10 Issue 
+3, pp. 571-575, May-June 2023. Available at doi : 
+https://doi.org/10.32628/IJSRST523103122            
+Journal URL : https://ijsrst.com/IJSRST523103122 

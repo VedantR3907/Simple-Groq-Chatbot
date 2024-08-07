@@ -1,0 +1,104 @@
+Python, SQL
+An individual who possesses a Bachelor of Technology degree in Computer Science Specialized with Machine learning and AI. Completed a hand-full of internships and worked as an teaching profession in IT field. Seeking a career in data science and Generative AI in a challenging environment where I can utilize my technical skills towards the development and implementation of new ideas and contribute to the growth of the organization.
+Junior AI Engineer
+ved antrajpuroh it39 07@gmail.c om
+vedantrajpurohit3907@gmail.com
+Surat, India
+GitHub
+9979508828
+Linkedin
+Linkedin
+Prompting
+GitHub
+Computer Vision(OpenCV)
+Vector Stores
+Model Development
+Dataset Handling
+Chatbot Development and Testing
+AI Model Training and Optimization
+AI Frameworks (Langchain, LLamaindex, Crew AI)
+WORK EXPERIENCE
+AI Intern
+Dhiwse Pvt Ltd.
+Dec 2023 - July 2024 
+Surat Gujarat
+Completed a total of five projects, including three 48-hour hackathons.
+During the hackathons, contributed to two projects as part of a team of three: the Ticketing System and the Recruitment Platform.
+Developed GitHub and resume scoring systems with custom criteria and OpenAI models with features for email communication,
+round creation, and position management for Recruitment Platform.
+Dec 2023 -  J uly 2024  
+Surat Gujarat
+Completed a t ota l of five projects, inclu ding three 48-h our hackath ons.
+During the  hacka thon s, contributed t o t wo proj ect s as part  of a te am of three:  the Ticke ting Syst em a nd the Recr uit
+ment Platform.
+Developed a chatbot using LlamaIndex, Pinecone, and OpenAI for document-based information retrieval. auto-drafting of responses based on previously answered queries using OpenAI and admin interfaces for ticket management and responses for Ticketing System with auto-generating tickets from Mail, Discord, and YouTube.
+Developed GitHub and resume scoring systems with custom criteria and OpenAI models with features for email communication, round creation, and position management for Recruitment Platform.
+Developed an independent project 'LLM Evaluation and Testing Platform'.
+Collaborated on a VS Code extension that auto-generates acceptance criteria and execution plans from various data sources (PDFs, Word files, images, web links, GitHub codebases). Implemented LangChain and LlamaIndex loaders with OpenAI models for efficient results.
+Developed tools for auto-annotation of images in LabelImg and web components, including scraping and annot
+ating web elements.
+Learned the concepts of Machine learning and deep learning
+Mentor Sessions for project guidence.
+Sept 2022 - Nov 2022 
+Remote
+Developed the project 'Hand Sign Language Recognition for American Alphabets, Hindi Varnmala, and Numbers' with integrated voice modulation.
+Learned the concepts of Machine learning and deep learning
+Mentor Sessions for project guidence.
+Prepared project presentations and reports
+Dhamdod, Kosamba, Surat Gujarat
+Design lessons that incorporate technologies for students.
+Jan 2023 - May 2023 
+
+ACHIEVEMENTS
+Published Research Paper on "Human Computer
+interacation with detection of hand gesture to improve
+artistic creativity".
+Research P
+aper Link
+Research Paper Link
+Google Drive Link
+EDUCATION
+Bachelors in Computer Science Specialized with AI and ML
+P.P. Savani University
+Oct 2020 - Apr 2024 
+CGPA: - 9.25
+Higher Secondary School (CBSE)
+Jan 2018 -  Apr 2020 
+Jan 2018 -  Apr 2020 
+Percentage: - 70
+PERSONAL PROJECTS
+LLM Evaluation and Testing Platform
+GitHub: - https://rb.gy/ztxxlkDeveloped a tool for concurrent evaluation of multiple language models with a single prompt and streaming outputs.
+Built evaluation features enabling users to assess prompt responses using custom evaluation metrics and GPT-4-based evaluation, leveraging OpenAI's GPT-4 model for high-quality feedback.
+Enabled individual parameter settings for each model and detailed metrics tracking (tokens used, response time, etc.).
+Implemented a prompt versioning system for saving and managing different versions of prompts.
+Used Supabase for user authentication and data storage.
+Used Supabase for user authentication and data storage.
+GitHub: - https://rb.gy/m6mgpt
+Developed a virtual painting application using OpenCV and Python, leveraging camera-based hand tracking.Created a custom hand tracking module with MediaPipe and CVZone libraries.
+Implemented an intuitive interface with selectable colors and shapes via hand tracking.
+Enabled freehand drawing and shape drawing with adjustable size options.
+Implemented an intuitive interface with selectable colors and shapes via hand tracking.
+GitHub: -  https://rb.gy/dtfl2d
+Created a custom dataset which is available on Kaggle and built custom models using MobileNet with additional layers.
+Designed an interactive dashboard for language selection and hand sign tracking with real-time feedback.Implemented voiceover for recognized signs to assist deaf individuals in hearing the hand signs.
+Dataset Available on kaggle: - https://rb.gy/c6vf9c
+Designed an interactive dashboard for language selection and hand sign tracking with real-time feedback.
+GitHub: - https://rb.gy/88n32s
+Utilized custom libraries like NLTK for English and Hindi.Created a dataset for Gujarati available on Kaggle https://rb.gy/c6vf9c , sourced from internet and handwritten texts.
+Implemented a module that auto-detects the language of the input and provides POS tags.
+Enabled support for mixed-language sentences (combining English, Hindi, and Gujarati) with a configurable parameter.Designed a rule-based POS tagging system for Gujarati with rules developed with input from educators and experts.
+Utilized custom libraries like NLTK for English and Hindi.
+Created a dataset for Gujarati available on Kaggle Full  Professional Proficiency 
+Implemented a module that auto-detects the language of the input and provides POS tags.
+Native  or Bilingual Proficiency
+Designed a rule-based POS tagging system for Gujarati with rules developed with input from educators and experts.
+Native  or Bilingual Proficiency
+English
+Elementary Proficiency
+Hindi
+Native  or Bilingual Proficiency
+Gujarati
+Native  or Bilingual Proficiency
+German
+Elementary Proficiency
