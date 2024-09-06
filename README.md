@@ -1,4 +1,4 @@
 # Simple-Groq-Chatbot
 
 
-A simple groq chatbot with fastapi.
+A simple groq chatbot with fastapi apis.
